@@ -21,4 +21,4 @@ I also created a custom Button component to keep the project lightweight.
 The project uses a clean component-based structure and is deployed on Vercel.
 
 Live Demo:
-https://www.assignment-1-taupe-eight.vercel.app
+https://assignment-1-taupe-eight.vercel.app
